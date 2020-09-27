@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 林 宇 翔</title>
+    <link>https://alexela20.github.io/zh/tags/</link>
+    <description>Recent content in Tags on 林 宇 翔</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>zh-Hans</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://alexela20.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile Computing</title>
+      <link>https://alexela20.github.io/zh/tags/mobile-computing/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexela20.github.io/zh/tags/mobile-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Networks</title>
+      <link>https://alexela20.github.io/zh/tags/wireless-networks/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexela20.github.io/zh/tags/wireless-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System</title>
+      <link>https://alexela20.github.io/zh/tags/system/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexela20.github.io/zh/tags/system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://alexela20.github.io/zh/tags/machine-learning/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexela20.github.io/zh/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
